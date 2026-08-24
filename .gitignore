@@ -1,0 +1,10 @@
+# Local environment variables
+.env
+.env.*
+
+# Compiled Binaries and Executables
+*.exe
+*.exe~
+
+#IDE
+.vscode/
